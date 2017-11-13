@@ -45,7 +45,7 @@ func host start
 
 ```
 
-**7. In Postman or with cUrl call the endpoint provided by Azure Functions Tools:**
+**7. In Postman or with cURL call the endpoint provided by Azure Functions Tools:**
 
 ```javascript
 

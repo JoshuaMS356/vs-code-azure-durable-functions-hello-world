@@ -56,9 +56,7 @@ curl -X POST http://localhost:7071/api/orchestrators/HelloSequence
 **8. You can check the progress of your function by calling "statusQueryGetUri" endpoint provided in the response similar to:** 
 
 ```javascript
-
 url -X GET 'http://localhost:7071/runtime/webhooks/DurableTaskExtension/instances/9c71ff5ff9f34e4f82f882c795bb20fa?taskHub=DurableFunctionsHub&connection=Storage&code=xuqaAlxP%2F%2FjlrBxU%2FL8kE5jjzMzhHysVVUucYItg6rBPJvAAIetd%2FA%3D%3D'
-  
 ```
 
 **9. Great! You are now able to run Azure Durable Functions in VS Code! Congratulations!!!**

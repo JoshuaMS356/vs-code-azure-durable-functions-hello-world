@@ -61,4 +61,4 @@ url -X GET 'http://localhost:7071/runtime/webhooks/DurableTaskExtension/instance
   
 ```
 
-**9. Great! You are now able to run Azure Durable Functions in VS Code! Congratulations!!!***
+**9. Great! You are now able to run Azure Durable Functions in VS Code! Congratulations!!!**

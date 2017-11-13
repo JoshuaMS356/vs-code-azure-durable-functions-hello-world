@@ -23,7 +23,7 @@ func extensions install -p Microsoft.Azure.WebJobs.Extensions.DurableTask -v 1.0
 ```
 **4. Start local Azure Storage Emulator v5.2 or later**  
 
-**5. Modify the contents of your local.settings.json file to look similar to:**
+**5. Add local.setting.json file next to host.json file and then modify local.settings.json file to look similar to:**
 
 ```javascript
 

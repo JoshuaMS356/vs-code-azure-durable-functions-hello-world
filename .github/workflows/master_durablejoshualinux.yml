@@ -41,4 +41,4 @@ jobs:
           app-name: 'DurableJoshuaLinux'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_414B3F93CAB0497C8C196D50171D7637 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54ED810E7AE54691B200D02CF48723A2 }}
